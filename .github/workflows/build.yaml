@@ -3,7 +3,7 @@ name: 21su-PA00
 on: [push]
 
 env:
-  EXE_NAME: PA00
+  EXE_NAME: pa00
   ### ***** Students!  Put the name of the input files and output files here.
   ###   List them in the order that they need to appear in Argv param of main.
   ###   Output Files will follow input files
